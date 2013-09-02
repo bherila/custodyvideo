@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsProducts" value="name:id;datatype:3,name:cat;datatype:3,name:name;datatype:200,name:html;datatype:201,name:perm;datatype:200" />
+	<infoitem key="UD_rsCategories" value="name:id;datatype:3,name:parent;datatype:3,name:name;datatype:200,name:header;datatype:201" />
+	<infoitem key="UD_rsCurrentCategory" value="name:id;datatype:3,name:parent;datatype:3,name:name;datatype:200,name:header;datatype:201" />
+</info>
